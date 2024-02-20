@@ -8,7 +8,7 @@ public class Copy {
 	{
 		
 		int ar[] = {1,2,3,4,5};
-		
+		String ss = "apoorva";
 		int s[] = new int[ar.length];
 		
 		for(int i=0;i<ar.length;i++)
